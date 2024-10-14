@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: test-api
   version: '1.0'
+  description: project added from github
 servers:
   - url: 'http://localhost:3000'
 paths:
